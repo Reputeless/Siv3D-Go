@@ -6,6 +6,10 @@ Reputeless (https://twitter.com/Reputeless)
 
 ![スクリーンショット](Go.png "スクリーンショット")
 
+#### 説明  
+碁盤の模様: Perlin Noise
+碁石: レイトレーシングで球を描いた Image
+
 #### コード  
 ```cpp
 # include <Siv3D.hpp>
